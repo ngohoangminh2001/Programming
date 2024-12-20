@@ -5,3 +5,4 @@ import matplotlib.pyplot
 
 titanic_df = pandas.read_csv('titanic.csv')
 print(titanic_df.head())
+print(titanic_df.tail())
